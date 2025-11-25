@@ -1,3 +1,7 @@
+#Nama: Azmi Syahri Ramadhan
+#NPM: 23552011068
+#Kelas: TIF223RP CNS A
+
 # kasir
 
 1. Perbedaan Cubit dan BLoC: Cubit lebih sederhana dan langsung mengubah state dengan emit(), cocok untuk kasus ringan, sedangkan BLoC lebih formal menggunakan alur Event → State, cocok untuk aplikasi kompleks dengan banyak event.
