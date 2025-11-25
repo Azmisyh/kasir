@@ -1,8 +1,8 @@
-# Nama: Azmi Syahri Ramadhan
+Nama: Azmi Syahri Ramadhan
 
-# NPM: 23552011068
+NPM: 23552011068
 
-# Kelas: TIF223RP CNS A
+Kelas: TIF223RP CNS A
 
 # kasir
 
